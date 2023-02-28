@@ -1,0 +1,155 @@
+22/11/05                           ROLLING PIZZA                             01
+
+                              NEW TRUCK DETAIL REPORT
+
+  TRUCK:Mobile
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   MilkChocBar         Large            827      $5.50       $    4,548.50
+                       Medium         1,035      $4.50       $    4,657.50
+                       Small            912      $3.50       $    3,192.00
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   MilkChocCaramel     Large            523      $5.99       $    3,132.77
+                       Medium         1,913      $4.99       $    9,545.87
+                       Small              0      $3.99       $        0.00
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   MilkChocAlmond      Large            445      $5.99       $    2,665.55
+                       Medium           815      $4.99       $    4,066.85
+                       Small            476      $3.99       $    1,899.24
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   DarkChocBar         Large            120      $6.99       $      838.80
+                       Medium           785      $5.99       $    4,702.15
+                       Small          1,215      $ .00       $        0.00
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   DarkChocCaramel     Large            124      $7.99       $      990.76
+                       Medium           118      $6.99       $      824.82
+                       Small            810      $5.99       $    4,851.90
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   DarkChocAlmond      Large            312      $7.99       $    2,492.88
+                       Medium             8      $6.99       $       55.92
+                       Small            490      $5.99       $    2,935.10
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   WhiteChocBar        Large            745      $5.99       $    4,462.55
+                       Medium             0      $4.99       $        0.00
+                       Small            709      $3.99       $    2,828.91
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   WhiteChocCrunch     Large            616      $5.99       $    3,689.84
+                       Medium           917      $4.99       $    4,575.83
+                       Small            206      $3.99       $      821.94
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   WhiteChocAlmond     Large            505      $4.99       $    2,519.95
+                       Medium           810      $3.99       $    3,231.90
+                       Small            909      $3.99       $    3,626.91
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   PeanutButterCup     Large            420      $5.99       $    2,515.80
+                       Medium           293      $4.99       $    1,462.07
+                       ERROR            302      $3.99       $    1,204.98
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   PeanutBrittle       Large            390      $4.99       $    1,946.10
+                       Medium           485      $3.99       $    1,935.15
+                       Small            901      $2.99       $    2,693.99
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   DarkChocCaramel     Large            723      $4.99       $    3,607.77
+                       Medium           613      $3.99       $    2,445.87
+                       Small            201      $2.99       $      600.99
+
+
+   TOTAL POSSIBLE REVENUE: $   95,571.1622/11/05                           ROLLING PIZZA                             02
+
+                              NEW TRUCK DETAIL REPORT
+
+  TRUCK:Montgomery
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   MilkChocBar         Large          1,011      $5.50       $    5,560.50
+                       ERROR          1,310      $4.50       $    5,895.00
+                       Small            103      $ .00       $        0.00
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   MilkChocCaramel     Large              0      $5.99       $        0.00
+                       Medium         1,402      $4.99       $    6,995.98
+                       Small              1      $3.99       $        3.99
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   MilkChocAlmond      Large            915      $5.99       $    5,480.85
+                       ERROR              0      $4.99       $        0.00
+                       Small              0      $3.99       $        0.00
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   DarkChocBar         Large            819      $7.99       $    6,543.81
+                       Medium           873      $6.99       $    6,102.27
+                       Small            940      $5.99       $    5,630.60
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   DarkChocCaramel     Large            221      $7.99       $    1,765.79
+                       Medium           698      $6.99       $    4,879.02
+                       Small            902      $5.99       $    5,402.98
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   DarkChocAlmond      Large            335      $7.99       $    2,676.65
+                       Medium           341      $6.99       $    2,383.59
+                       Small            303      $5.99       $    1,814.97
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   WhiteChocBar        Large             24      $5.99       $      143.76
+                       Medium           633      $4.99       $    3,158.67
+                       Small            131      $3.99       $      522.69
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   WhiteChocCrunch     Large            903      $5.99       $    5,408.97
+                       Medium           914      $4.99       $    4,560.86
+                       Small              0      $ .00       $        0.00
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   WhiteChocAlmond     Large            820      $4.99       $    4,091.80
+                       Medium           703      $3.99       $    2,804.97
+                       ERROR            920      $2.99       $    2,750.80
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   PeanutButterCup     Large            425      $5.99       $    2,545.75
+                       Medium           820      $4.99       $    4,091.80
+                       Small            830      $3.99       $    3,311.70
+
+     TREAT NAME           SIZE        STOCK     PRICE        REVENUE
+
+   PeanutBrittle       Large            510      $4.99       $    2,544.90
+                       Medium             0      $3.99       $        0.00
+                       Small            702      $2.99       $    2,098.98
+
+
+   TOTAL POSSIBLE REVENUE: $   99,171.65
+
+   GRAND TOTAL POSSIBLE REVENUE: $   194,742.81
